@@ -1,0 +1,16 @@
+{
+    "image": "https://gateway.pinata.cloud/ipfs/QmXjTYXpTY6DSkdSY2SJWKC15SyWu1rXjdaq32p5TfUkZh/suraj.png",
+    "name": "Suraj Mishra",
+    "description": "Web3 member of GDSC USICT Web development Team. This NFT is Issued by GDSC USICT. Google Developer Profile Link :https://g.dev/Suraj_Mishra",
+    
+    "attributes": 
+      {
+        "Team": "Web development",
+        "Post": "member",
+        "Validity": "2022-2023",
+        "Branch": "CSE",
+        "Batch":"2025"
+      }
+    
+
+  }
