@@ -22,4 +22,5 @@ Here is a brief description of each element we use throughout the process based 
 - **Pinata** provides secure and verifiable files for your NFTs. Whether you are a platform, creator, or collector, simply upload through Pinata, copy your IPFS CID, and attach to your NFT before minting to have secure and verifiable NFT files.
 - **OpenSea** is a decentralized peer-to-peer marketplace for buying, selling and trading rare digital goods, from gaming items to collectibles to art, which are built on non-fungible token (NFT) technology and run on the Ethereum blockchain.
 - **The asset** that you want to tokenize (image file in this case).
+![Screenshot 2022-10-03 222955](https://user-images.githubusercontent.com/108128949/193637672-e61d9759-9cd6-4982-9025-0542a6c39800.jpg)
 
