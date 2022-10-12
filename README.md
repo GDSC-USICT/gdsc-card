@@ -1,4 +1,4 @@
-Visit at : https://testnets.opensea.io/collection/gdsc-usict-v2
+Visit at :  https://testnets.opensea.io/collection/gdscusict
 
 
 *NFTs (or Non-Fungible Tokens) have become increasingly popular, and this repository was an attempt to embrace the new internet by GDSC USICT. The team of 2022-2023 will possess unique NFTs as their identity cards as a proof of this concept, adding “digital pieces of art” as tokens. For this, we  used the [Ethereum blockchain](https://ethereum.org/en/) and the [ERC-721 standard](https://ethereum.org/es/developers/docs/standards/tokens/erc-721/). We will be storing the “pieces of art” (images) in IPFS and given that we will follow the metadata standards of the ERC721 Json Schema, the NFT will also be available in OpenSea-testnet.*
