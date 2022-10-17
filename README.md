@@ -24,3 +24,9 @@ Here is a brief description of each element we use throughout the process based 
 - **The asset** that you want to tokenize (image file in this case).
 ![Screenshot 2022-10-03 222955](https://user-images.githubusercontent.com/108128949/193637672-e61d9759-9cd6-4982-9025-0542a6c39800.jpg)
 
+## Screenshots
+
+![Screenshot 2022-10-15 at 3 07 45 PM](https://user-images.githubusercontent.com/52607235/195979682-a93cde46-b8e5-40ef-937b-9c5c925af797.png)
+![Screenshot 2022-10-15 at 3 10 42 PM](https://user-images.githubusercontent.com/52607235/195979780-8dd3badc-2ee9-495a-94ff-fbf59a3e8ab9.png)
+![Screenshot 2022-10-15 at 3 12 28 PM](https://user-images.githubusercontent.com/52607235/195979866-d1547375-ba90-44e6-bfc0-47d9e54b8407.png)
+
